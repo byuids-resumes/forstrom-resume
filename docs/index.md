@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Gavin Forstrom's Resume
 ---
 # Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+Business Analytics stuent at Brigham Young Univeristy-Idaho
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
