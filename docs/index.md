@@ -2,13 +2,13 @@
 layout: cv
 title: Gavin Forstrom's Resume
 ---
-# Brigham Young
-Business Analytics stuent at Brigham Young Univeristy-Idaho
+# Gavin Forstrom
+Business Analytics student at Brigham Young University-Idaho
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="for16011@byui.edu">for16011@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/gavin-forstrom-86767419b//">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
@@ -16,27 +16,20 @@ Business Analytics stuent at Brigham Young Univeristy-Idaho
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
-
+- 3.8 Major GPA
 
 ## Related Experience
 
-### Internships
+`September 2021 - Present`
+__Business Intel and Analytics Teaching Assistant__
+Rexburg, ID
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Worked closely with course professor to design, revise, and improve lesson materials.
+- Organized online meetings with students and adapted teaching based on personal needs.
+- Exceeded professor’s expectations by initiating extended student engagement, receiving high tutoring reviews, and helping increase class grades semester over semester.
 
 ### Data Science Lead
 
@@ -74,11 +67,13 @@ __Pinnacle Management Group__,
 ## Service and Work History
 
 `2025-2027`
-__Math Tutor__, LDSBC
+__Eagle Scout (Boy Scouts of America):__
+Organized meetings, events, outings; planned and completed large scale service project with local non-profit organization 
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2017-2019`
+__Service Missionary:__ Fort Worth, Texas
+Gained appreciation for people of various cultures and circumstances while teaching and serving 80 hours per week; planned and conducted weekly improvement meetings for representatives regarding policies, time management, effective teaching methods.
 
 
 
